@@ -1,7 +1,7 @@
 # Shell
 
-Android Apk加壳技术实战详解的相关代码.
-原文连接:<http://blog.csdn.net/DeMonliuhui/article/details/78269234>
+Android Apk加壳技术实战详解的相关代码。原文连接:  
+<http://blog.csdn.net/DeMonliuhui/article/details/78269234>
 
 目录结构说明：  
 1.Demo：源apk，需要加密的demo.apk. Android Studio工程。     
